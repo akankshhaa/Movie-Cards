@@ -11,7 +11,6 @@ import { MovieDetails } from "./components/UI/MovieDetails";
 import { getMovieDetails } from "./api/GetMovieDetails";
 
 const App = () => {
-  
   const router = createBrowserRouter([
     {
       path: "/",
